@@ -22,16 +22,16 @@ function Page() {
             Ali Gurur Yaman
           </h2>
           <p className="mt-4 text-white text-lg">
-            Merhaba! Ben Ali Gurur, 5 Ekim 1991'de Mersin'de doğdum ve şu anda
-            Osmaniye, Kadirli'de yaşıyorum. Son bir yıldır kendimi geliştiren
-            bir frontend yazılımcısıyım. Bu süreçte çeşitli modern web
-            teknolojileri ve araçları kullanarak kullanıcı dostu ve etkileyici
-            web arayüzleri oluşturma konusunda yetkinlik kazandım. React ve
-            React Native ile web ve mobil uygulamalar geliştirme konusunda
-            deneyimliyim. Özellikle React, Next.js, Tailwind CSS ve Redux gibi
-            kütüphaneler ve frameworklerle projeler geliştiriyorum. Bu sayede
-            hem web hem de mobil platformlarda kullanıcı deneyimini ön planda
-            tutarak, işlevsel ve estetik açıdan başarılı uygulamalar
+            Merhaba! Ben Ali Gurur, 5 Ekim 1991&apos;de Mersin&apos;de doğdum ve
+            şu anda Osmaniye, Kadirli&apos;de yaşıyorum. Son bir yıldır kendimi
+            geliştiren bir frontend yazılımcısıyım. Bu süreçte çeşitli modern
+            web teknolojileri ve araçları kullanarak kullanıcı dostu ve
+            etkileyici web arayüzleri oluşturma konusunda yetkinlik kazandım.
+            React ve React Native ile web ve mobil uygulamalar geliştirme
+            konusunda deneyimliyim. Özellikle React, Next.js, Tailwind CSS ve
+            Redux gibi kütüphaneler ve frameworklerle projeler geliştiriyorum.
+            Bu sayede hem web hem de mobil platformlarda kullanıcı deneyimini ön
+            planda tutarak, işlevsel ve estetik açıdan başarılı uygulamalar
             yaratabiliyorum. Amacım, kullanıcı deneyimini en üst seviyede
             tutarak, modern ve yenilikçi çözümler sunmak. Yeni teknolojilere ve
             sürekli öğrenmeye olan tutkum sayesinde, her geçen gün bilgi ve
